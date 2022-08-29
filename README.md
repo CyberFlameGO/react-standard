@@ -3,6 +3,7 @@
 
 This repository contains a set of open-source components, libraries, and logic that are used throughout GoCloud products and services.
 
+Responsible team: [@gocloudhub/tooling](https://github.com/orgs/GoCloudHub/teams/tooling)
 
 ### Installation
 Add it to your project:
