@@ -1,6 +1,6 @@
 {
   "name": "@gocloud/react-standard",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A set of standard React tools and components for GoCloud services",
   "scripts": {
     "rollup": "rollup -c"

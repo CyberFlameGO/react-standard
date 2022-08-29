@@ -5,6 +5,9 @@ export interface ErrorBoundaryState {
   errorInfo: any;
 }
 export interface ErrorBoundaryProps extends PropsWithChildren {
+  /**
+   * The path to be rendererd when an error occurs.
+   */
   errorPath: (state: ErrorBoundaryState) => JSX.Element;
 }
 
