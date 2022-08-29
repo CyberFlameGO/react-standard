@@ -1,9 +1,10 @@
 {
   "name": "@gocloud/react-standard",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A set of standard React tools and components for GoCloud services",
   "scripts": {
-    "rollup": "rollup -c"
+    "rollup": "rollup -c",
+    "upload": "npm run rollup && npm publish --access public"
   },
   "author": "GoCloud Systems",
   "license": "SEE LICENSE IN license.md",
